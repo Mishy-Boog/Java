@@ -1,0 +1,48 @@
+Respostas revisão de java:
+1-R: Uma classe é uma maneira de se criar 
+objetos que possuem mesmo comportamento e mesma estrutura.
+..........
+
+2-R: O objeto é o instanciamento de uma classe, 
+ele puxa as definições da classe por meio dos metodos usados nela 
+
+3-R: Os principais membros são os atributo.
+Get:É usado para puxar o atributo
+Set:É usado para selecionar o atributo
+
+4-R: é um processo de várias etapas que converte código-fonte Java 
+legível por humanos em bytecode legível por máquina
+garante que o código-fonte seja transformado em um formato otimizado, 
+seguro e independente de plataforma (bytecode), pronto para ser executado pela JVM.
+
+TEM Q MUDAR
+
+5-R: 
+
+6-R: A herança é utilizada quando você precisa que 
+uma classe herde um ou mais atributos de uma classe 
+pai sem que precise repetir linhas de codigo.
+
+7-R: Herança simples: É quando a classe a ser herdada 
+tem uma classe herdando suas caracteristicas.
+
+Herança multipla: É quando a classe a ser herdada tem 
+mais de uma classe herdando suas caracteristicas.
+..........
+
+
+8-R: 
+
+9-
+
+10-
+
+11-
+
+12-
+
+13-
+
+14-
+
+15-
