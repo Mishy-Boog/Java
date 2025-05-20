@@ -18,8 +18,17 @@ public class LeitorDeContatos {
 
                 if(dados.length) == 2 {
                     Contato contato = new Contato(dados[0], dados.trim());
+                    
+                    contato.add(contato);
                 }
             }
+            br.Close();
+            
+            for (Contato c: contatos){
+                System.out.println(c);
+            }
+        }catch (IOException e){
+            System.out.println("Erro na leitura" + e.getMessage());
         }
     }
 
